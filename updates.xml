@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='keanlpkbmdkhffgndaegkegemmdabjbe'>
-    <updatecheck codebase='URL_CỦA_FILE_CRX_SẼ_LẤY_Ở_BƯỚC_6' version='1.0' />
+    <updatecheck codebase='https://github.com/danghnh-ablethanh/chatbot-auto-tester/raw/refs/heads/main/Chatbot%20auto%20tester.crx' version='1.0' />
   </app>
 </gupdate>
